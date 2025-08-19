@@ -1,3 +1,5 @@
+<img src="https://www.bodrex.com/public/files/macam-sakit-kepala-dan-cara-mengatasinya.jpg" width="1000"/>
+
 # 💫 About Me:
 Hi, I’m Aryasatya Handaru Muhammad<br>🎓 Student of Information Systems & Technology, Cyber University<br>💻 Currently focusing on Web Development (HTML, CSS/Tailwind, JS, PHP Laravel)<br>🎨 Interested in UI/UX, Data Analysis, and Front-End Development<br>🚍 Member of Busways Fans Club (enthusiast in public transportation & technology)<br>🌱 Currently learning Network Administration and IoT Projects<br>🤝 Open to collaboration in web apps, e-learning platforms, and fintech research
 
